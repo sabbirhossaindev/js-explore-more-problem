@@ -20,3 +20,5 @@ function cheapestPhone(phones) {
 }
 const myCheapest = cheapestPhone(phones);
 console.log(myCheapest);
+
+// hw find of camera;
